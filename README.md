@@ -42,5 +42,3 @@ tower effects:
 -> magic penetration
 -> area of effect damage 
 
-Access To Game:
-- Game is playable on the web via my portfolio website with the following url: http://prabdhaliwal.herokuapp.com/tower-defence-3d-enemy-wave
